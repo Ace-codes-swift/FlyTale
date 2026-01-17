@@ -1,0 +1,16 @@
+Place your Physics_Block.png texture file here!
+
+The texture should be:
+- 16x16 pixels (or 32x32 for HD)
+- PNG format
+- Named: Physics_Block.png
+
+You can create textures using:
+- Paint.NET (Windows)
+- GIMP (Cross-platform)
+- Pixelmator (macOS)
+- Online pixel art editors like Piskel
+
+Example texture tools:
+- https://www.piskelapp.com/ (Online pixel art editor)
+- https://lospec.com/palette-list (Color palettes for pixel art)

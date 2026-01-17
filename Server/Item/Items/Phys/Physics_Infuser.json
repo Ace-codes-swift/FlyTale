@@ -1,0 +1,35 @@
+{
+  "Model": "Blocks/Physics_Infuser/model.blockymodel",
+  "Utility": {
+    "Usable": true
+  },
+  "BlockType": {
+    "CubeShadingMode": "Fullbright",
+    "Opacity": "Cutout",
+    "DrawType": "Model",
+    "Textures": [
+      {
+        "All": "BlockTextures/texture (2).png",
+        "Sides": "BlockTextures/texture (2).png",
+        "UpDown": "BlockTextures/texture (2).png",
+        "Up": "BlockTextures/texture (2).png",
+        "Down": "BlockTextures/texture (2).png",
+        "North": "BlockTextures/texture (2).png",
+        "South": "BlockTextures/texture (2).png",
+        "West": "BlockTextures/texture (2).png",
+        "East": "BlockTextures/texture (2).png"
+      }
+    ],
+    "CustomModel": "Blocks/Physics_Infuser/model.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/texture (2).png"
+      }
+    ],
+    "Light": {
+      "Color": "#95f",
+      "Radius": 2
+    }
+  },
+  "Consumable": false
+}
